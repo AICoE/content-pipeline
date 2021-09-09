@@ -1,7 +1,7 @@
 project-template
 ==============================
 
-template for the team to use
+This repo exists to effectively create, track, and manage the content created by the AICoE.
 
 Project Organization
 ------------
