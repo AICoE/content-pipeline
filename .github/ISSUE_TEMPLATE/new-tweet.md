@@ -1,7 +1,7 @@
 ---
 name: New tweet
 about: Add a new Twitter idea
-title: 'New tweet: '
+title: 'tweet: '
 labels: tweet
 assignees: isabelizimm
 

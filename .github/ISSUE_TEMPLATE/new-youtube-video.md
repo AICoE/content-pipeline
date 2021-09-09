@@ -1,7 +1,7 @@
 ---
 name: New YouTube video
 about: Add a new idea for a YouTube video
-title: 'New YouTube video: '
+title: 'YouTube video: '
 labels: youtube
 assignees: ''
 
