@@ -2,7 +2,7 @@
 name: New content idea
 about: Suggest fresh topics to promote
 title: 'idea: '
-labels: ''
+labels: new-idea
 assignees: ''
 
 ---
