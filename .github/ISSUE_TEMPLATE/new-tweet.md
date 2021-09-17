@@ -11,7 +11,7 @@ assignees: isabelizimm
 
 ## Overview
 
-## Will this be posted to Operate First twitter? 
+## Will this be posted to Operate First twitter?
 - [ ] Yes
 - [ ] No (specify what twitter account)
 
