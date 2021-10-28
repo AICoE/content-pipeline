@@ -2,11 +2,11 @@
 
 This repo exists to effectively create, track, and manage the content created by the AICoE.
 
-At AICoE, we have been actively involved in collaborating with teams within Red Hat to advance 
-different products, services and operations using AI. 
+At AICoE, we have been actively involved in collaborating with teams within Red Hat to advance
+different products, services and operations using AI.
 In order to enable and/or educate teams and get engineers or stakeholders more involved
-in the projects, and in order to get them to be able to effectively use the solutions, 
-we need to streamline the process in which we make the engagements and have a way to measure 
+in the projects, and in order to get them to be able to effectively use the solutions,
+we need to streamline the process in which we make the engagements and have a way to measure
 the impact of the project.
 
 ## Objective
@@ -18,13 +18,13 @@ the impact of the project.
 
 ## Traits of artifacts
 
-* consumable, reproducible structure. 
-* Leverage Reproducible DS workflow standards. 
+* consumable, reproducible structure.
+* Leverage Reproducible DS workflow standards.
 * findings and results in a understandable and discoverable format
 * Notebooks and projects are easy to understand for the inexperienced
     * Sample data is included
     * Time boxed: each chapter should not exceed 15-20 minutes
-* make project onboarding easy by following the standards 
+* make project onboarding easy by following the standards
 * democratize data access to empower all stakeholders to experiment with data.
 * Create upstream versions of the same artifacts with sample data or public data
 
