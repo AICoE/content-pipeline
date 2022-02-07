@@ -23,3 +23,9 @@ In this section you can find presentations and videos created by AICoE team.
     - `Reproducibility and dependencies for Jupyter Notebooks`
         - [presentation](./talks/2021/odsc-west/ODSC-West-2021.pdf)
         - [video](https://www.youtube.com/watch?v=FvVJNccTibs)
+
+## 2022
+
+- `DevConf.CZ 22` (Jan 28-29):
+    - [all OSG Talks (videos & slides)](https://github.com/open-services-group/community/issues/47)
+    - [all videos](https://www.youtube.com/playlist?list=PLU1vS0speL2bf9Zfa0pHQLPBhEKbbbsua)
